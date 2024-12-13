@@ -1,0 +1,44 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info
+*.pyd
+*.log
+
+# Virtual environment
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# TensorFlow checkpoints and logs
+logs/
+checkpoints/
+*.ckpt
+*.tfrecord
+
+# Matplotlib and other plots
+*.png
+*.svg
+*.jpg
+*.jpeg
+
+# PyPDF2 temporary files
+*.pdf~
+
+# System-specific files
+.DS_Store
+Thumbs.db
