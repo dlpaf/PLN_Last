@@ -30,12 +30,6 @@ checkpoints/
 *.ckpt
 *.tfrecord
 
-# Matplotlib and other plots
-*.png
-*.svg
-*.jpg
-*.jpeg
-
 # PyPDF2 temporary files
 *.pdf~
 
